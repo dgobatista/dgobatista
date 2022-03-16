@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center" dir="auto">
+<h2 dir="auto"><a id="user-content-github-statistics-chart_with_upwards_trend" class="anchor" aria-hidden="true" href="#github-statistics-chart_with_upwards_trend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>GitHub Statistics <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji></h2> 
+<div dir="auto">
+<p dir="auto"><a href="https://github.com/dgobatista"><img src="https://camo.githubusercontent.com/11439248c292b333c343725cf9beb4b69579da7716a0f3338db844d117902887/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67617262696e6d617263656c6f2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266c6f63616c653d656e" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dgobatista&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" style="max-width: 100%;"></a>
+<a href="https://github.com/dgobatista"><img src="https://camo.githubusercontent.com/ef3eb660ce1c3356027cba2bd735e45777efe8c31101d09cfcef6fd309b56069/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d67617262696e6d617263656c6f267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=dgobatista&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;"></a></p>
+</div>
+</div>
+
 
 
 <div align="center" dir="auto">
