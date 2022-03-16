@@ -80,7 +80,7 @@ Here are some ideas to get you started:
                 data-canonical-src="https://img.shields.io/badge/-CSS-white?logo=css3&amp;logoColor=1572B6&amp;style=for-the-badge"
                 style="max-width: 100%;"></a>
 
-    </p>
+    
     <p dir="auto"><a href="https://getcomposer.org/" rel="nofollow"><img
                 src="https://camo.githubusercontent.com/1e1b9cc0862b5fcafab2cb9a9e32a8d3feae1ff5b19784d26fa69e2b8dde4304/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d636f6d706f7365722d77686974653f6c6f676f3d636f6d706f736572266c6f676f436f6c6f723d383835363330267374796c653d666f722d7468652d6261646765"
                 alt="composer"
