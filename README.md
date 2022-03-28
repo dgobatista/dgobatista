@@ -16,19 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center" dir="auto">
-<h2 dir="auto"><a id="user-content-github-statistics-chart_with_upwards_trend" class="anchor" aria-hidden="true" href="#github-statistics-chart_with_upwards_trend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>GitHub Statistics <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji></h2> 
-
-
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=dgobatista&amp;show_icons=true&amp;theme=prussian&amp;hide_border=true&amp;locale=en)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dgobatista&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-  </div>
-
-<br><br>
-
-
 
 <div align="center" dir="auto">
 <h2 dir="auto"><a id="user-content-knowledge-base-hammer_and_wrench" class="anchor" aria-hidden="true" href="#knowledge-base-hammer_and_wrench"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Knowledge Base <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji></h2>
@@ -87,3 +74,16 @@ Here are some ideas to get you started:
 <a href="https://trello.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/683aaecaf30a92d10bd63648b993c50fa27d8b72ce9228ca5ec94c7f06590cf0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7472656c6c6f2d77686974653f6c6f676f3d7472656c6c6f266c6f676f436f6c6f723d303035324343267374796c653d666f722d7468652d6261646765" alt="trello" data-canonical-src="https://img.shields.io/badge/-trello-white?logo=trello&amp;logoColor=0052CC&amp;style=for-the-badge" style="max-width: 100%;"></a>
 <a href="https://slack.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/534ec94525c02b77f7aa9e6daeeaacb1fd44cc76a6a0026e8b1e6366cec42baf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d736c61636b2d77686974653f6c6f676f3d736c61636b266c6f676f436f6c6f723d344131353442267374796c653d666f722d7468652d6261646765" alt="slack" data-canonical-src="https://img.shields.io/badge/-slack-white?logo=slack&amp;logoColor=4A154B&amp;style=for-the-badge" style="max-width: 100%;"></a></p>
 </div>
+
+<br><br>
+
+<div align="center" dir="auto">
+<h2 dir="auto"><a id="user-content-github-statistics-chart_with_upwards_trend" class="anchor" aria-hidden="true" href="#github-statistics-chart_with_upwards_trend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>GitHub Statistics <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji></h2> 
+
+
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=dgobatista&amp;show_icons=true&amp;theme=prussian&amp;hide_border=true&amp;locale=en)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dgobatista&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+  </div>
+
